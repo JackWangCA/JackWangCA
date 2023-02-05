@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackWangCA
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java and Flutter
+- 🌱 I’m currently learning Java, C++ and Flutter
 - 📫 How to reach me 
 jackwangcas@gmail.com
 
